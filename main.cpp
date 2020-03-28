@@ -1,3 +1,6 @@
+//Autor del codigo: Grupo de Instructores
+//Se trabajo sobre el codigo base proporcionado por los instructores de la materia de 
+//Tecnicas de Simulacion en Computadoras
 #include <fstream>
 #include <iostream>
 #include "classes.h"
